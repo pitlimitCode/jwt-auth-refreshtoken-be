@@ -17,4 +17,4 @@ run project:
 nodemon
 ```
 
-Need Front-end side https://github.com/pitlimitCode/jwt-auth-refreshtoken-be.git  
+Need Front-end side https://github.com/pitlimitCode/jwt-auth-refreshtoken.git  
