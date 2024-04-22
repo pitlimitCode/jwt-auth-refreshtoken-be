@@ -83,3 +83,5 @@ app.listen(port, () => console.log(`Server running on ${port}`));
 // userB commit commit to origin/remote meanwhile userA has localUpdate and try pull origin/remote
 // commit1
 // commit2
+// commit3
+// commit4
