@@ -79,3 +79,4 @@ app.listen(port, () => console.log(`Server running on ${port}`));
 
 // reset
 // userB commit to origin/remote
+// userA pull origin/remote then commit to origin/remote
